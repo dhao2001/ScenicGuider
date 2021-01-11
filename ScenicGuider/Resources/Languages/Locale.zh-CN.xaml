@@ -1,0 +1,36 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib"
+                    xmlns:local="clr-namespace:ScenicGuider.Resources.Languages">
+    <sys:String x:Key="MainWinTitle">景观导游者</sys:String>
+
+    <sys:String x:Key="FileMenu">文件</sys:String>
+    <sys:String x:Key="LoadMapMenu">加载地图...</sys:String>
+
+    <sys:String x:Key="MapMenu">地图</sys:String>
+    <sys:String x:Key="MinimumSpanningTreeMenu">计算最小生成树</sys:String>
+    
+    <sys:String x:Key="SettingMenu">设置</sys:String>
+    <sys:String x:Key="LanguageItem">语言</sys:String>
+    
+    <sys:String x:Key="AboutMenu">关于</sys:String>
+
+    <sys:String x:Key="ScenicNameLabel">景点:</sys:String>
+    <sys:String x:Key="SetStartButton">设为起点</sys:String>
+    <sys:String x:Key="SetEndButton">设为终点</sys:String>
+
+    <sys:String x:Key="StartPointLabel">起点:</sys:String>
+    <sys:String x:Key="EndPointLabel">终点:</sys:String>
+    <sys:String x:Key="CalcShortestPathButton">查找最短路径</sys:String>
+    <sys:String x:Key="CalcAllPathButton">查找所有路径</sys:String>
+
+    <sys:String x:Key="StartPointCantbeEmpty">起点不能为空</sys:String>
+    <sys:String x:Key="EndPointCantbeEmpty">终点不能为空</sys:String>
+    <sys:String x:Key="StartEndCantbeSame">起点与终点不能相同</sys:String>
+    <sys:String x:Key="MapNotLoaded">地图没有加载。请先加载地图</sys:String>
+    <sys:String x:Key="ErrorWhileMST">计算最小生成树时发生了错误</sys:String>
+    <sys:String x:Key="MakeSureConnected">请确保地图是联通的，并且数据库已经正确配置</sys:String>
+    <sys:String x:Key="CurrentPathLength">当前路径长度:</sys:String>
+    <sys:String x:Key="CurrentMSTLength">当前最小生成树总长度:</sys:String>
+    
+</ResourceDictionary>

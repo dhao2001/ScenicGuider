@@ -1,0 +1,37 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:sys="clr-namespace:System;assembly=mscorlib"
+                    xmlns:local="clr-namespace:ScenicGuider.Resources.Languages">
+    <sys:String x:Key="MainWinTitle">Scenic Guider</sys:String>
+    
+    <sys:String x:Key="FileMenu">File</sys:String>
+    <sys:String x:Key="LoadMapMenu">Load Map...</sys:String>
+
+    <sys:String x:Key="MapMenu">Map</sys:String>
+    <sys:String x:Key="MinimumSpanningTreeMenu">Get MST</sys:String>
+    
+    <sys:String x:Key="SettingMenu">Setting</sys:String>
+    <sys:String x:Key="LanguageItem">Languages</sys:String>
+    
+    <sys:String x:Key="AboutMenu">About</sys:String>
+
+    <sys:String x:Key="ScenicNameLabel">Scenic:</sys:String>
+    <sys:String x:Key="SetStartButton">Set As Start Point</sys:String>
+    <sys:String x:Key="SetEndButton">Set As End Point</sys:String>
+
+    <sys:String x:Key="StartPointLabel">Start:</sys:String>
+    <sys:String x:Key="EndPointLabel">End:</sys:String>
+    <sys:String x:Key="CalcShortestPathButton">Search Shortest Path</sys:String>
+    <sys:String x:Key="CalcAllPathButton">Search All Path</sys:String>
+
+    <sys:String x:Key="StartPointCantbeEmpty">Start Point Cannot be Empty.</sys:String>
+    <sys:String x:Key="EndPointCantbeEmpty">End Point Cannot be Empty.</sys:String>
+    <sys:String x:Key="StartEndCantbeSame">Start Point Cannot be same as End Point.</sys:String>
+    <sys:String x:Key="MapNotLoaded">Map haven't been loaded. Load Map First.</sys:String>
+    <sys:String x:Key="ErrorWhileFindingPath">Error Occured While Searching For Path.</sys:String>
+    <sys:String x:Key="ErrorWhileMST">Error Occured While Searching For MST.</sys:String>
+    <sys:String x:Key="MakeSureConnected">Make Sure This Map Connected and Database is Setup Correctly.</sys:String>
+    <sys:String x:Key="CurrentPathLength">Current Path Length:</sys:String>
+    <sys:String x:Key="CurrentMSTLength">Current MST Total Length:</sys:String>
+    
+</ResourceDictionary>
