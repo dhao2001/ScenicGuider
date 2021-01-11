@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This file is NOT compatible with Silverlight-->
+<Viewbox xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Stretch="Uniform">
+  <Canvas Name="svg852" Width="508" Height="508">
+    <Canvas.RenderTransform>
+      <TranslateTransform X="0" Y="0"/>
+    </Canvas.RenderTransform>
+    <Canvas.Resources/>
+    <!--Unknown tag: sodipodi:namedview-->
+    <!--Unknown tag: metadata-->
+    <Canvas Name="layer1">
+      <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="44" Canvas.Top="49.3" Width="49.2" Height="49.2" Name="N2" Fill="#FFF4A460" StrokeThickness="0.264583"/>
+      <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="223" Canvas.Top="232.2" Width="49.2" Height="49.2" Name="N6" Fill="#FFF4A460" StrokeThickness="0.264583"/>
+      <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="192.6" Canvas.Top="80.9" Width="49.2" Height="49.2" Name="N3" Fill="#FFF4A460" StrokeThickness="0.264583"/>
+      <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="81.2" Canvas.Top="162" Width="49.2" Height="49.2" Name="N5" Fill="#FFF4A460" StrokeThickness="0.264583"/>
+      <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="403.7" Canvas.Top="11.1" Width="49.2" Height="49.2" Name="N1" Fill="#FFF4A460" StrokeThickness="0.264583"/>
+      <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="202.6" Canvas.Top="329.7" Width="49.2" Height="49.2" Name="N9" Fill="#FFF4A460" StrokeThickness="0.264583"/>
+      <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="330.3" Canvas.Top="260.9" Width="49.2" Height="49.2" Name="N7" Fill="#FFF4A460" StrokeThickness="0.264583"/>
+      <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="392.3" Canvas.Top="407.6" Width="49.2" Height="49.2" Name="N10" Fill="#FFF4A460" StrokeThickness="0.264583"/>
+      <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="64.2" Canvas.Top="447.6" Width="49.2" Height="49.2" Name="N11" Fill="#FFF4A460" StrokeThickness="0.264583"/>
+      <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="353" Canvas.Top="133.9" Width="49.2" Height="49.2" Name="N4" Fill="#FFF4A460" StrokeThickness="0.264583"/>
+      <Ellipse xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="18.1" Canvas.Top="291.9" Width="49.2" Height="49.2" Name="N8" Fill="#FFF4A460" StrokeThickness="0.264583"/>
+      <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="P10_11" StrokeThickness="2.000000" Stroke="#FF000000" StrokeLineJoin="Miter" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+        <Path.Data>
+          <PathGeometry Figures="M 113.23029 469.24265 392.499 435.13839" FillRule="EvenOdd"/>
+        </Path.Data>
+      </Path>
+      <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="P9_10" StrokeThickness="2.000000" Stroke="#FF000000" StrokeLineJoin="Miter" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+        <Path.Data>
+          <PathGeometry Figures="M 394.15868 422.82309 249.90988 363.62936" FillRule="EvenOdd"/>
+        </Path.Data>
+      </Path>
+      <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="P7_9" StrokeThickness="2.000000" Stroke="#FF000000" StrokeLineJoin="Miter" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+        <Path.Data>
+          <PathGeometry Figures="m 333.26874 297.16038 -84.45708 45.47691" FillRule="EvenOdd"/>
+        </Path.Data>
+      </Path>
+      <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="P8_9" StrokeThickness="2.000000" Stroke="#FF000000" StrokeLineJoin="Miter" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+        <Path.Data>
+          <PathGeometry Figures="M 66.797662 321.43309 203.07445 349.35866" FillRule="EvenOdd"/>
+        </Path.Data>
+      </Path>
+      <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="P5_6" StrokeThickness="2.000000" Stroke="#FF000000" StrokeLineJoin="Miter" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+        <Path.Data>
+          <PathGeometry Figures="m 127.78125 197.46581 97.75639 48.40093" FillRule="EvenOdd"/>
+        </Path.Data>
+      </Path>
+      <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="P6_9" StrokeThickness="2.000000" Stroke="#FF000000" StrokeLineJoin="Miter" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+        <Path.Data>
+          <PathGeometry Figures="M 232.19953 330.22767 242.5357 280.84383" FillRule="EvenOdd"/>
+        </Path.Data>
+      </Path>
+      <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="P2_5" StrokeThickness="2.000000" Stroke="#FF000000" StrokeLineJoin="Miter" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+        <Path.Data>
+          <PathGeometry Figures="M 98.040448 163.20551 76.287639 97.286988" FillRule="EvenOdd"/>
+        </Path.Data>
+      </Path>
+      <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="P3_5" StrokeThickness="2.000000" Stroke="#FF000000" StrokeLineJoin="Miter" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+        <Path.Data>
+          <PathGeometry Figures="m 197.28674 119.93085 -71.66041 52.15559" FillRule="EvenOdd"/>
+        </Path.Data>
+      </Path>
+      <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="P2_3" StrokeThickness="2.000000" Stroke="#FF000000" StrokeLineJoin="Miter" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+        <Path.Data>
+          <PathGeometry Figures="M 193.11385 100.35825 92.635491 79.040088" FillRule="EvenOdd"/>
+        </Path.Data>
+      </Path>
+      <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="P3_6" StrokeThickness="2.000000" Stroke="#FF000000" StrokeLineJoin="Miter" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+        <Path.Data>
+          <PathGeometry Figures="M 242.7289 232.67015 222.01124 129.56823" FillRule="EvenOdd"/>
+        </Path.Data>
+      </Path>
+      <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="P3_4" StrokeThickness="2.000000" Stroke="#FF000000" StrokeLineJoin="Miter" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+        <Path.Data>
+          <PathGeometry Figures="M 354.2509 150.78438 240.51303 113.18021" FillRule="EvenOdd"/>
+        </Path.Data>
+      </Path>
+      <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="P4_7" StrokeThickness="2.000000" Stroke="#FF000000" StrokeLineJoin="Miter" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+        <Path.Data>
+          <PathGeometry Figures="m 373.27436 182.70847 -14.0338 78.58907" FillRule="EvenOdd"/>
+        </Path.Data>
+      </Path>
+      <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="P6_7" StrokeThickness="2.000000" Stroke="#FF000000" StrokeLineJoin="Miter" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+        <Path.Data>
+          <PathGeometry Figures="m 271.3256 263.13316 59.83994 16.0135" FillRule="EvenOdd"/>
+        </Path.Data>
+      </Path>
+      <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="P1_4" StrokeThickness="2.000000" Stroke="#FF000000" StrokeLineJoin="Miter" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+        <Path.Data>
+          <PathGeometry Figures="M 386.98139 135.77572 418.91198 58.447466" FillRule="EvenOdd"/>
+        </Path.Data>
+      </Path>
+      <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="P1_3" StrokeThickness="2.000000" Stroke="#FF000000" StrokeLineJoin="Miter" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+        <Path.Data>
+          <PathGeometry Figures="M 240.51512 97.74914 404.94864 43.432584" FillRule="EvenOdd"/>
+        </Path.Data>
+      </Path>
+      <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="10.5833" FontWeight="Normal" FontFamily="sans-serif" FontStyle="normal" Foreground="#FF000000" Canvas.Left="303.13687" Canvas.Top="60.3" Name="text866">
+        <Span FontSize="10.5833">173</Span>
+      </TextBlock>
+      <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="10.5833" FontWeight="Normal" FontFamily="sans-serif" FontStyle="normal" Foreground="#FF000000" Canvas.Left="135.23837" Canvas.Top="74.9" Name="text870">
+        <Span FontSize="10.5833">103</Span>
+      </TextBlock>
+      <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="10.5833" FontWeight="Normal" FontFamily="sans-serif" FontStyle="normal" Foreground="#FF000000" Canvas.Left="296.13464" Canvas.Top="115.6" Name="text874">
+        <Span FontSize="10.5833">120</Span>
+      </TextBlock>
+      <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="10.5833" FontWeight="Normal" FontFamily="sans-serif" FontStyle="normal" Foreground="#FF000000" Canvas.Left="404.62997" Canvas.Top="92.6" Name="text882">
+        <Span FontSize="10.5833">83</Span>
+      </TextBlock>
+      <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="10.5833" FontWeight="Normal" FontFamily="sans-serif" FontStyle="normal" Foreground="#FF000000" Canvas.Left="371.50464" Canvas.Top="215" Name="text886">
+        <Span FontSize="10.5833">80</Span>
+      </TextBlock>
+      <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="10.5833" FontWeight="Normal" FontFamily="sans-serif" FontStyle="normal" Foreground="#FF000000" Canvas.Left="95.147949" Canvas.Top="118.8" Name="text894">
+        <Span FontSize="10.5833">69</Span>
+      </TextBlock>
+      <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="10.5833" FontWeight="Normal" FontFamily="sans-serif" FontStyle="normal" Foreground="#FF000000" Canvas.Left="174.25972" Canvas.Top="201.6" Name="text898">
+        <Span FontSize="10.5833">109</Span>
+      </TextBlock>
+      <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="10.5833" FontWeight="Normal" FontFamily="sans-serif" FontStyle="normal" Foreground="#FF000000" Canvas.Left="297.2037" Canvas.Top="254" Name="text902">
+        <Span FontSize="10.5833">62</Span>
+      </TextBlock>
+      <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="10.5833" FontWeight="Normal" FontFamily="sans-serif" FontStyle="normal" Foreground="#FF000000" Canvas.Left="223.11797" Canvas.Top="296.8" Name="text906">
+        <Span FontSize="10.5833">50</Span>
+      </TextBlock>
+      <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="10.5833" FontWeight="Normal" FontFamily="sans-serif" FontStyle="normal" Foreground="#FF000000" Canvas.Left="297.73825" Canvas.Top="315.5" Name="text910">
+        <Span FontSize="10.5833">96</Span>
+      </TextBlock>
+      <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="10.5833" FontWeight="Normal" FontFamily="sans-serif" FontStyle="normal" Foreground="#FF000000" Canvas.Left="117.59859" Canvas.Top="316" Name="text914">
+        <Span FontSize="10.5833">139</Span>
+      </TextBlock>
+      <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="10.5833" FontWeight="Normal" FontFamily="sans-serif" FontStyle="normal" Foreground="#FF000000" Canvas.Left="311.63626" Canvas.Top="374.8" Name="text918">
+        <Span FontSize="10.5833">156</Span>
+      </TextBlock>
+      <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="10.5833" FontWeight="Normal" FontFamily="sans-serif" FontStyle="normal" Foreground="#FF000000" Canvas.Left="241.61165" Canvas.Top="456.1" Name="text922">
+        <Span FontSize="10.5833">281</Span>
+      </TextBlock>
+      <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="10.5833" FontWeight="Normal" FontFamily="sans-serif" FontStyle="normal" Foreground="#FF000000" Canvas.Left="162.98335" Canvas.Top="147.1" Name="text892">
+        <Span FontSize="10.5833">88</Span>
+      </TextBlock>
+      <TextBlock xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" FontSize="10.5833" FontWeight="Normal" FontFamily="sans-serif" FontStyle="normal" Foreground="#FF000000" Canvas.Left="237.82269" Canvas.Top="174.6" Name="text896">
+        <Span FontSize="10.5833">106</Span>
+      </TextBlock>
+    </Canvas>
+  </Canvas>
+</Viewbox>

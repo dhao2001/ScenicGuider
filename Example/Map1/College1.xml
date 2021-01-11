@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ScenicMap Name="College1" ConfigurationVersion="0.1">
+    <ScenicMapXamlConfigure XamlFileName="College1.xaml">
+        <DefaultNodeBackground>#FFF4A460</DefaultNodeBackground>
+        <DefaultPathColor>#FF000000</DefaultPathColor>
+    </ScenicMapXamlConfigure>
+
+    <ScenicMapDBConfigure DBFileName="College.db">
+    
+    </ScenicMapDBConfigure>
+</ScenicMap>
